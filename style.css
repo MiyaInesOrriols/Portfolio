@@ -1,0 +1,68 @@
+
+body 
+{
+    background-color: #f5f5f0;
+}
+.game-title 
+{
+    background-color: #1a6bbf;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.description-jeu 
+{
+    background-color: #5a9fd4;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.extrait-de-jeu 
+{
+    background-color: #7bc47b;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+}
+
+.extrait-de-jeu-title 
+{
+    background-color: #4a9e4a;
+}
+
+.extrait-de-code 
+{
+    background-color: #b89fd4;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.extrait-de-code-title 
+{
+    background-color: #8b6db3;
+}
+
+.extrait-de-code-description 
+{
+    background-color: #d4bfed;
+}
+
+ul 
+{
+    display: flex;
+    list-style: none;
+    gap: 8px;
+    padding: 0;
+}
+
+li 
+{
+    background-color: #e0e0e0;
+    padding: 4px 10px;
+    border-radius: 12px;
+}
