@@ -36,6 +36,7 @@ main
     border-radius: 8px;
     display: flex;
     gap: 10px;
+    align-items: flex-start;
 }
 
 .extrait-de-jeu h3
@@ -48,6 +49,7 @@ main
     background-color: #4a9e4a;
     border-radius: 10px;
     margin-bottom: 120px;
+    padding: -50px;
     
 }
 
