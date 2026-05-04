@@ -3,6 +3,15 @@ body
 {
     background-color: #f5f5f0;
 }
+
+main
+{
+    width: 100%;
+    margin: auto;
+    position: relative;
+    margin-bottom: 50px;
+   
+}
 .game-title 
 {
     background-color: #1a6bbf;
@@ -65,4 +74,9 @@ li
     background-color: #e0e0e0;
     padding: 4px 10px;
     border-radius: 12px;
+}
+
+img 
+{
+    border-radius: 5px;
 }
