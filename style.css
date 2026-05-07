@@ -31,7 +31,7 @@ main
 
 .extrait-de-jeu 
 {
-    background-color: #7bc47b;
+    background: linear-gradient( #5bb55b,  #98bf98) no-repeat;
     padding: 10px;
     margin: 10px 0;
     border-radius: 8px;
@@ -52,7 +52,8 @@ main
 
 .extrait-de-code 
 {
-    background-color: #b89fd4;
+    /*background-color: #b89fd4;*/
+    background: linear-gradient(#a783d1,#c6bad4) no-repeat;
     padding: 10px;
     margin: 10px 0;
     border-radius: 8px;
