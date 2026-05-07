@@ -40,10 +40,6 @@ main
     align-items: flex-start;
 }
 
-.extrait-de-jeu h3
-{
-    padding: 5px;
-}
 
 .extrait-de-jeu-title 
 {
@@ -68,7 +64,7 @@ main
     border-radius: 10px;
 }
 
-.extrait-de-code-title h3
+.extrait-de-code-title h3, .extrait-de-jeu h3, .extrait-de-code-description p
 {
     padding: 5px;
 }
@@ -79,10 +75,6 @@ main
     border-radius: 10px;
 }
 
-.extrait-de-code-description p
-{
-    padding: 5px;
-}
 
 ul 
 {
